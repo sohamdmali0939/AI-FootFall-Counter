@@ -1,0 +1,9 @@
+opencv-python
+ultralytics
+numpy
+torch
+torchvision
+torchaudio
+tqdm
+filterpy
+matplotlib
